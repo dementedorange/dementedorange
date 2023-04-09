@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello 👋
 
 
 - 🔭 I’m currently working on a app (more on that later)
@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 -->
 [![Orange's github stats](https://github-readme-stats.vercel.app/api?username=dementedorange&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/dementedorange/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dementedorange)](https://github.com/dementedorange/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dementedorange&theme=radical)](https://github.com/dementedorange/github-readme-stats)
 
