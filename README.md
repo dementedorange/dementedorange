@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on a app (more on that later)
+- 🏫 Computer Science Student
+- 📫 Reach out to me on Discord: Orange#0069
 <!--
 **dementedorange/dementedorange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Orange's github stats](https://github-readme-stats.vercel.app/api?username=dementedorange&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/dementedorange/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dementedorange)](https://github.com/dementedorange/github-readme-stats)
+
