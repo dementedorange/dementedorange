@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Orange's github stats](https://github-readme-stats.vercel.app/api?username=dementedorange&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/dementedorange/github-readme-stats)
+[![Orange's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dementedorange&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/dementedorange/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dementedorange&theme=radical)](https://github.com/dementedorange/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dementedorange&theme=radical)](https://github.com/dementedorange/github-readme-stats)
 
